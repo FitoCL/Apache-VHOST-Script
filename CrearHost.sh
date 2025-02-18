@@ -1,6 +1,6 @@
 #!/bin/bash
 # Author: Fito
-#http://www.facebook.com/fitog2 copyleft 2011
+#https://github.com/FitoCL copyleft 2011
 ######################################################## INTRUCCIONES #############################################################
 #abre una consola y nos movemos ¡Recuerda como Super Usuario root!					                          #																									                              #
 #Para ejecutar el script seguir el ejemplo:											  #
